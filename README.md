@@ -26,7 +26,7 @@ Issues are closed because we are not active in there. Join our discord if you ne
 
 ## Messages
 
-* Message to those coding masters out there, if you see something we can improve in our code, feel free to make a pull request. This will really help us a lot. ╰(✿´⌣\`✿)╯♡
+* Keep it Douchey!
 
 ## Why did my computer say it's a dangerous file/containing virus?
 * I'm going to make myself clear here - it's not a virus.
