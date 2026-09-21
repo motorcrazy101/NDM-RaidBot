@@ -1,12 +1,8 @@
 # Douchebag MODE Discord Server Bot/Nuke Bot
 ## Made by SelfCenteredDouchebag
-NDM-RaidBot is currently the **FASTEST** and **FREE** open source self-hosted nuke bot out here. All commands will be focused on nuking-related.
+NDM-RaidBot is currently the **FASTEST** and **FREE** self-hosted nuke bot out here. All commands will be focused on nuking-related.
 
 Issues are closed because we are not active in there. Join our discord if you need help, see plans for the future updates, suggestions, or beta testing a newer version of the bot: [https://discord.gg/anime-asylum]
-
-We have combined threading, queue, requests, and discord.py API to make the commands run as fast as possible. If you are seeing rate limiting logged in your console while using this script, then that is simply because <ins>it runs too fast</ins>.
-
-Python version 3.8.0 or higher is required if you are going to run the file from source code.
 
 [All 51 commands](manual.md)
 
@@ -29,13 +25,11 @@ Python version 3.8.0 or higher is required if you are going to run the file from
 * Also, since we are using HTTP requests, unlike other nuke bot out there, DoucheBag spam creating channel, role, and category(CRC) can create beyond the 250 limit for CRC that the old nuking bots have.
 
 ## Messages
-* cyxl: wow.
 
 * Message to those coding masters out there, if you see something we can improve in our code, feel free to make a pull request. This will really help us a lot. ╰(✿´⌣\`✿)╯♡
 
 ## Why did my computer say it's a dangerous file/containing virus?
 * I'm going to make myself clear here - it's not a virus.
-* There is another way for people that don't trust the released versions, and dont't want to download python to run the bot. Use https://repl.it/, make an account, choose "new repl" in the top left corner, choose python, click "create repl", copy and paste the [source code]() into repl, and click on the run button at the top.  
 
 ## Main Usage (Please read `.config` command below before contacting me)
 `.nuke <true or false>` - It's a combination of a few commands: `.deleteAllChannels`, `.deleteAllEmojis`, `.deleteAllRoles`, `.banAll`, and `.deleteAllWebhooks`. True or false is an optional argument that is set to true by default and used for disabling after commands. (This command doesn't need to be configed with `.config`, Note: you can also use all the commands listed above seperately)
@@ -47,9 +41,9 @@ Python version 3.8.0 or higher is required if you are going to run the file from
 
 ## Guides
 ### 2.4 setup
-* Run the .exe or the .py
+* Run the .exe
 * You will see the "Enter token" message. You can only enter a bot token because selfbot is no longer supported.
 * Next you will see "Enter user ID or tag", you should enter the user ID or tag that you wanted to command the bot with. All command permissions will be granted to the user with the ID or tag you entered here.
 * If you want to know what commmands are there, then run `.help`
 * If you want to config any settings like the after commands or the webhook spam commands, you have to use `.config`. For more information on how to config will be in the `.config` command.
-* If you are having problems, feel free to make a issue in this github page.
+* If you are having problems, feel free to create a Support Ticket in our discord server here: (https://discord.gg/anime-asylum).
