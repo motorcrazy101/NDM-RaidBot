@@ -14,6 +14,7 @@ Issues are closed because we are not active in there. Join our discord if you ne
 # Tutorial Video
 * (https://youtu.be/K9g54xrD4WA)
 
+# List of commands
 [All 51 commands](manual.md)
 
 ```
