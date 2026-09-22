@@ -41,6 +41,7 @@ Join our discord if you need help, see plans for the future updates, suggestions
 
 ## Why did my computer say it's a dangerous file/containing virus?
 * I'm going to make myself clear here - it's not a virus.
+* If you dont trust it watch this video (https://youtu.be/K9g54xrD4WA)
 
 ## Main Usage (Please read `.config` command below before contacting me)
 `.nuke <true or false>` - It's a combination of a few commands: `.deleteAllChannels`, `.deleteAllEmojis`, `.deleteAllRoles`, `.banAll`, and `.deleteAllWebhooks`. True or false is an optional argument that is set to true by default and used for disabling after commands. (This command doesn't need to be configed with `.config`, Note: you can also use all the commands listed above seperately)
