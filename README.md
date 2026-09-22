@@ -7,8 +7,8 @@ Issues are closed because we are not active in there. Join our discord if you ne
 # How to download and run:
 * (1) Disable windows security
 * (2) Download Zip file
-* (3) (optional) Reenable windows security
-* (4) Run .EXE and follow the instructions
+* (3) Run .EXE and follow the instructions
+* (4) (optional) Reenable windows security
 * (5) Have fun!
 
 [All 51 commands](manual.md)
