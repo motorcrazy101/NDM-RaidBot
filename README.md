@@ -52,7 +52,7 @@ Join our discord if you need help, see plans for the future updates, suggestions
 * `.config <feature> <args...>` - if you just type out `.config` it will show you all the features that you can config and it will guide you with text in the `.config` command. For example, if you want to add webhook spammer names to config webhook spam, you first want to type `.config webhook_spam`. The bot will send out a description of the webhook_spam feature and the config commands you can use to config the webhook_spam feature. From there you should be able to find something like `webhook <type> add <text>` for adding something into the `<type>` in this case you want to choose the username for the spammers, so you can type `.config webhook_spam usernames add Douchebag` for adding usernames to  webhook_spam.
 
 ## Guides
-### 2.4 setup
+### 3.1.0 setup
 * Run the .exe
 * You will see the "Enter token" message. You can only enter a bot token because selfbot is no longer supported.
 * Next you will see "Enter user ID or tag", you should enter the user ID or tag that you wanted to command the bot with. All command permissions will be granted to the user with the ID or tag you entered here.
