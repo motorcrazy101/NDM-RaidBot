@@ -11,6 +11,9 @@ Issues are closed because we are not active in there. Join our discord if you ne
 * (4) (optional) Reenable windows security
 * (5) Have fun!
 
+# Tutorial Video
+* (https://youtu.be/K9g54xrD4WA)
+
 [All 51 commands](manual.md)
 
 ```
